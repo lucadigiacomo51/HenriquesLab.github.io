@@ -16,6 +16,8 @@ image_sliders:
 <img src='/images/HenriquesLabLogo.jpg' style='width: 75%'>
 </div>
 
+<img src='./images/HenriquesLabLogo.jpg' style='width: 75%'>
+
 <body align="justify">
 ### News about the laboratory
 We'll be opening a new laboratory at <b>[Instituto Gulbenkian de Ciência](https://gulbenkian.pt/ciencia/)</b> this summer.
