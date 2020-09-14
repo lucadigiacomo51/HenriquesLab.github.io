@@ -75,10 +75,10 @@ social:
 
 # Site Author
 author:
-  name             : "Ricardo Henriques"
+  name             : "Name_name"
   avatar           : "RH.jpg"
-  bio              : "Professor of Computational and Optical Biophysics, University College London and Francis Crick Institute"
-  location         : "London, UK"
+  bio              : "Professor of ..."
+  location         : "Rome, IT"
   employer         :
   googlescholar    : "https://scholar.google.co.uk/citations?user=-peQ4ZsAAAAJ&hl=en"
   email            : "r.henriques@ucl.ac.uk"
@@ -89,7 +89,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "HenriquesLab"
+  github           : "lucadigiacomo"
   google_plus      :
   keybase          :
   instagram        :
@@ -101,7 +101,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "HenriquesLab"
+  twitter          : "twitter"
   vine             :
   weibo            :
   xing             :
