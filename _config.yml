@@ -109,9 +109,9 @@ author:
   wikipedia        :
   researchgate     :
 
-author:
-  name             : "NanoDelivery Lab 2"
-  avatar           : "RH.jpg"
+#author:
+#  name             : "NanoDelivery Lab 2"
+#  avatar           : "RH.jpg"
 
 # Reading Files
 include:
