@@ -14,6 +14,8 @@ image_sliders:
 
 <div style="text-align: center">
 <img src='./images/logo_lab.jpg' style='width: 75%'>
+<img src='../images/logo_lab.jpg' style='width: 75%'>
+<img src='/images/logo_lab.jpg' style='width: 75%'>
 </div>
 
 <body align="justify">
