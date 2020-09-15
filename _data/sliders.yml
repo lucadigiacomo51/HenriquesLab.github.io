@@ -17,7 +17,7 @@
   captions: True
   images:
     - src: /images/pumpy.jpg
-      alt: pumpy0
+      alt: pumpy
     - src: /images/TOC-v3-01.jpg
       alt: TOC
     - src: /images/tracking.jpg
