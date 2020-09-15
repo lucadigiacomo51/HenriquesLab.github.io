@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "NanoDelivery Lab       "
+title                    : "NanoDelivery Lab"
 title2                    : "Home Page"
 title_separator          : "-"
 name                     : &name "NanoDelivery Lab"
