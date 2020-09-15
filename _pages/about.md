@@ -20,8 +20,11 @@ image_sliders:
 
 <body align="justify">
 
-
-{% include slider.html selector="home" %}
+<div id="slider">
+  <img src="./images/logo_lab_cut.jpg" alt="alt text 1">
+  <img src="./images/logo_lab_cut.jpg" alt="alt text 2">
+  <img src="./images/logo_lab_cut.jpg" alt="alt text 3">
+</div>
 
 ### Who we are
 
