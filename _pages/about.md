@@ -11,9 +11,9 @@ image_sliders:
 ---
 
 {% if page.iis_slider_active %}
-  <!-- Slider CSS -->
-  <link rel="stylesheet" href="{{ "/path/to/ideal-image-slider.css" | relative_url }}">
-  <link rel="stylesheet" href="{{ "/path/to/themes/default.css" | relative_url }}">
+  <-- Slider CSS -->
+  <link rel="stylesheet" href="{{ "/path/to/ideal-image-slider.css" | https://github.com/lucadigiacomo51/nano_test_01.github.io/tree/master/SliderMaster }}">
+  <link rel="stylesheet" href="{{ "/path/to/themes/default.css" | https://github.com/lucadigiacomo51/nano_test_01.github.io/tree/master/SliderMaster/themes/default }}">
 {% endif %}
 
 {% include slider.html selector="home" %}
