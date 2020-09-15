@@ -12,12 +12,6 @@ redirect_from:
 
 {% include slider.html selector="home" %}
 
-{% if page.iis_slider_active %}
-  <!-- Slider CSS -->
-  <link rel="stylesheet" href="{{ "/path/to/ideal-image-slider.css" | relative_url }}">
-  <link rel="stylesheet" href="{{ "/path/to/themes/default.css" | relative_url }}">
-{% endif %}
-
 {::options parse_block_html="true" /}
 
 <div style="text-align: center">
