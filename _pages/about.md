@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 image_sliders:
   - home
+  
 ---
+
+{% include slider.html selector="home" %}
 
 {::options parse_block_html="true" /}
 
@@ -18,7 +21,6 @@ image_sliders:
 
 <body align="justify">
 
-{% include slider.html selector="home" %}
 
 ### Who we are
 
