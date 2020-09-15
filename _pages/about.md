@@ -10,6 +10,8 @@ image_sliders:
   - home
 ---
 
+{% include slider.html selector="home" %}
+
 {::options parse_block_html="true" /}
 
 <div style="text-align: center">
