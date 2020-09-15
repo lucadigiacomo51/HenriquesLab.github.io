@@ -21,10 +21,16 @@ image_sliders:
 <body align="justify">
 
 <div id="slider">
-  <img src="./images/logo_lab_cut.jpg" alt="alt text 1">
-  <img src="./images/logo_lab_cut.jpg" alt="alt text 2">
-  <img src="./images/logo_lab_cut.jpg" alt="alt text 3">
+  <img src="./images/logo_lab_cut.jpg" >
+  <img src="./images/logo_lab_cut.jpg" >
+  <img src="./images/logo_lab_cut.jpg" ">
 </div>
+
+{% slider captions %}
+  ![this is the alt text](image1.jpg)
+  ![it will be used as a caption](image2.jpg)
+  ![for the image](image3.jpg)
+{% endslider %}
 
 ### Who we are
 
