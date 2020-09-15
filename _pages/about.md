@@ -25,3 +25,6 @@ image_sliders:
 ### The Laboratory
 
 ...
+
+
+{% include slider.html selector="home" %}
