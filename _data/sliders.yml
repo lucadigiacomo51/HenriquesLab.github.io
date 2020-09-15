@@ -17,7 +17,7 @@
   captions: True
   images:
     - src: ./nano_test_01.github.io/images/logo_lab_cut.jpg
-      alt: logo3
+      alt: logo
     - src: ./nano_test_01.github.io/images/logo_lab_cut.jpg
       alt: logo2
   settings:
