@@ -23,7 +23,7 @@
     - src: ./nano_test_01.github.io/images/percezione-in-forme.jpg
       alt: something
   settings:
-    height:  500
+    height:  "'auto'"
     maxHeight: 300
     interval: 10000
     transitionDuration: 2500
