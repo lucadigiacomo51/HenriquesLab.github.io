@@ -16,11 +16,11 @@
   bullets: True
   captions: True
   images:
-    - src: ./images/pumpy.jpg
+    - src: /images/pumpy.jpg
       alt: pumpy0
-    - src: ./images/TOC-v3-01.jpg
+    - src: /images/TOC-v3-01.jpg
       alt: TOC
-    - src: ./images/tracking.jpg
+    - src: /images/tracking.jpg
       alt: Tracking2
   settings:
     height:  "'auto'"
