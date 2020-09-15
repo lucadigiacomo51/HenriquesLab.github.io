@@ -16,17 +16,15 @@
   bullets: True
   captions: True
   images:
-    - src: /images/pumpy.jpg
-      alt: pumpy_long...
-    - src: /images/pumpy.jpg
-      alt: pumpylong2...
+    - src: /images/logo_lab_cut.jpg
+      alt: logo
+    - src: /images/logo_lab_cut.jpg
+      alt: logo2
   settings:
     height:  "'auto'"
     interval: 5000
     transitionDuration: 3000
     effect: "'slide'"
-
-
 
 
 - selector: keep as example
