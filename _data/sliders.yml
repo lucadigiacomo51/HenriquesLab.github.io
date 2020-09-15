@@ -18,8 +18,10 @@
   images:
     - src: /images/tracking.jpg
       alt: Tracking
-    - src: /images/TOC-v3-01.jpg
+    - src: ./images/TOC-v3-01.jpg
       alt: TOC
+    - src: ../images/tracking.jpg
+      alt: Tracking2
   settings:
     height:  "'auto'"
     interval: 5000
