@@ -18,13 +18,13 @@
   images:
     - src: ./nano_test_01.github.io/images/logo_lab_cut.jpg
       title: logo0
-    - src: ./nano_test_01.github.io/images/BB.jpg
+    - src: ./nano_test_01.github.io/images/CARE.jpg
       title: logo2
   settings:
     height:  "'auto'"
     interval: 5000
     transitionDuration: 3000
-    effect: "'slide'"
+    effect: "'fade'"
 
 
 - selector: keep as example
