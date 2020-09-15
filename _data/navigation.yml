@@ -3,7 +3,7 @@ main:
   - title: "Team"
     url: /team/
     
-    - title: "News"
+  - title: "News"
     url: /news/
 
   # - title: "Projects"
