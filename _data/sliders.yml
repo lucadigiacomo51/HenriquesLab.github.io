@@ -26,7 +26,7 @@
     height:  "'auto'"
     maxHeight: 300
     interval: 10000
-    transitionDuration: 3000
+    transitionDuration: 2500
     effect: "'slide'"
 
 
