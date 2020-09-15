@@ -16,7 +16,7 @@ url                      : https://lucadigiacomo51.github.io/nano_test_01.github
 #url                      : http://127.0.0.1:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lucadigiacomo51/nano_test_01.github.io" #"henriqueslab/henriqueslab.github.io"
-teaser                   : "mstile-150x150.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png" 
+teaser                   : #"mstile-150x150.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png" 
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
@@ -80,8 +80,8 @@ author:
   bio              : "..."
   location         : "Rome, IT"
   employer         :
-  googlescholar    : "https://scholar.google.co.uk/citations?user=-peQ4ZsAAAAJ&hl=en"
-  email            : "r.henriques@ucl.ac.uk"
+  googlescholar    : "https://scholar.google.com/citations?user=qWwuxK4AAAAJ&hl=it&oi=ao"
+  email            : "giulio.caracciolo@uniroma1.it"
   uri              :
   bitbucket        :
   codepen          :
@@ -89,7 +89,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "lucadigiacomo"
+  github           : "lucadigiacomo51/nano_test_01.github.io"
   google_plus      :
   keybase          :
   instagram        :
