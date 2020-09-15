@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 image_sliders:
   - home
-  
 ---
 
 {% include slider.html selector="home" %}
