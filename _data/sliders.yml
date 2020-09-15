@@ -17,9 +17,9 @@
   captions: True
   images:
     - src: ./nano_test_01.github.io/images/logo_lab_cut.jpg
-      alt: logo0
-    - src: ./nano_test_01.github.io/images/CARE.jpg
-      alt: logo2
+      title: logo0
+    - src: ./nano_test_01.github.io/images/BB.jpg
+      title: logo2
   settings:
     height:  "'auto'"
     interval: 5000
