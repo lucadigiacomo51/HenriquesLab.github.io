@@ -18,7 +18,7 @@ image_sliders:
 
 <body align="justify">
 
-### Who are we
+### Who we are
 
 ...
 
