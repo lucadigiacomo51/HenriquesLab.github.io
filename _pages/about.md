@@ -10,6 +10,12 @@ image_sliders:
   - home
 ---
 
+{% if page.iis_slider_active %}
+  <!-- Slider CSS -->
+  <link rel="stylesheet" href="{{ "/path/to/ideal-image-slider.css" | relative_url }}">
+  <link rel="stylesheet" href="{{ "/path/to/themes/default.css" | relative_url }}">
+{% endif %}
+
 {% include slider.html selector="home" %}
 
 {::options parse_block_html="true" /}
