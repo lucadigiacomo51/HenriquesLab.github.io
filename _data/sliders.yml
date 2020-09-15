@@ -16,8 +16,8 @@
   bullets: True
   captions: True
   images:
-    - src: ./images/pumpy.jpg
-      alt: pumpy ./
+    - src: ../images/pumpy.jpg
+      alt: pumpy ../
   settings:
     height:  "'auto'"
     interval: 5000
