@@ -10,11 +10,11 @@ image_sliders:
   - home
 ---
 
+{::options parse_block_html="true" /}
+
 ### NanoDelivery Lab
 
 {% include slider.html selector="home" %}
-
-{::options parse_block_html="true" /}
 
 <div style="text-align: center">
 <img src='./images/logo_lab_cut.jpg' style='width: 0%'>
