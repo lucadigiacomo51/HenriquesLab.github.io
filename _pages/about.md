@@ -6,14 +6,15 @@ author_profile: true
 redirect_from:
   - /about/
   - /about.html
-  {% if page.iis_slider_active %}
+  image_sliders:
+  - home
+---
+
+{% if page.iis_slider_active %}
   <!-- Slider CSS -->
   <link rel="stylesheet" href="{{ "/path/to/ideal-image-slider.css" | relative_url }}">
   <link rel="stylesheet" href="{{ "/path/to/themes/default.css" | relative_url }}">
 {% endif %}
-image_sliders:
-  - home
----
 
 {% include slider.html selector="home" %}
 
