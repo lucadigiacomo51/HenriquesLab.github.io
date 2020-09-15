@@ -16,9 +16,9 @@
   bullets: True
   captions: True
   images:
-    - src: /images/logo_lab_cut.jpg
-      alt: logo
-    - src: /images/logo_lab_cut.jpg
+    - src: ./images/logo_lab_cut.jpg
+      alt: logo3
+    - src: ./images/logo_lab_cut.jpg
       alt: logo2
   settings:
     height:  "'auto'"
