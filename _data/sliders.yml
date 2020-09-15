@@ -18,7 +18,7 @@
   images:
     - src: ./images/pumpy.jpg
       alt: pumpy ./
-    - src: ./images/pumpy.jpg
+    - src: /images/pumpy.jpg
       alt: pumpy2 ./
   settings:
     height:  "'auto'"
