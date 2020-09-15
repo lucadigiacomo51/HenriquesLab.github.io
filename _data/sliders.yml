@@ -18,12 +18,12 @@
   images:
     - src: ./nano_test_01.github.io/images/liposome-corona-box.png
       alt: caption1 ...
-    - src: ./nano_test_01.github.io/images/liposome-corona-box.png
-      alt: logo2
     - src: ./nano_test_01.github.io/images/mahal_example12.png
+      alt: logo2
+    - src: ./nano_test_01.github.io/images/percezione-in-forme.jpg
       alt: logo3
   settings:
-    height:  "'auto'"
+    height:  500
     maxHeight: 300
     interval: 10000
     transitionDuration: 2500
