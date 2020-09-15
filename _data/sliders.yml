@@ -23,7 +23,7 @@
     - src: ./nano_test_01.github.io/images/logo_lab_cut.jpg
       alt: logo3
   settings:
-    height:  300
+    height:  "'auto'"
     maxHeight: 300
     interval: 5000
     transitionDuration: 3000
