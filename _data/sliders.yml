@@ -17,7 +17,7 @@
   captions: True
   images:
     - src: /images/pumpy.jpg
-      alt: pumpy
+      alt: pumpy /
   settings:
     height:  "'auto'"
     interval: 5000
