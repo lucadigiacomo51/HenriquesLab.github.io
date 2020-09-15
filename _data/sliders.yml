@@ -16,8 +16,8 @@
   bullets: True
   captions: True
   images:
-    - src: ./nano_test_01.github.io/images/percezione-in-forme.png
-      alt: logo1
+    - src: ./nano_test_01.github.io/images/liposome-corona-box.png
+      alt: caption1 ...
     - src: ./nano_test_01.github.io/images/liposome-corona-box.png
       alt: logo2
     - src: ./nano_test_01.github.io/images/mahal_example12.png
