@@ -16,16 +16,10 @@
   bullets: True
   captions: True
   images:
-    - src: ./images/PIC-STED.jpg
-      alt: Structure of biomimetic hydrogel
-    - src: ./images/cell_matrix.jpg
-      alt: Cell remodelling the matrix
-    - src: ./images/super-res-comp.jpg
-      alt: Super-resolution fluroescence imaging
-    - src: ./images/organoid3.jpg
-      alt: Imaging organoids
+    - src: ./images/tracking.jpg
+      alt: Tracking
     - src: ./images/TOC-v3-01.jpg
-      alt:
+      alt: TOC
   settings:
     height:  "'auto'"
     interval: 5000
