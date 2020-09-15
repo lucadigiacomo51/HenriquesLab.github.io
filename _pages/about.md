@@ -10,9 +10,11 @@ image_sliders:
   - home
 ---
 
-### Welcome to the website of our laboratory
-
 {::options parse_block_html="true" /}
+
+
+
+
 
 {% include slider.html selector="home" %}
 
