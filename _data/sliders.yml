@@ -16,9 +16,9 @@
   bullets: True
   captions: True
   images:
-    - src: ./images/tracking.jpg
+    - src: /images/tracking.jpg
       alt: Tracking
-    - src: ./images/TOC-v3-01.jpg
+    - src: /images/TOC-v3-01.jpg
       alt: TOC
   settings:
     height:  "'auto'"
