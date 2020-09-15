@@ -22,9 +22,10 @@
       title: logo2
   settings:
     height:  "'auto'"
-    interval: 5000
+    maxHeight: 500
+    interval: 10000
     transitionDuration: 3000
-    effect: "'fade'"
+    effect: "'slide'"
 
 
 - selector: keep as example
