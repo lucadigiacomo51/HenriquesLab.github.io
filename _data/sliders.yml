@@ -16,16 +16,16 @@
   bullets: True
   captions: True
   images:
-    - src: ./nano_test_01.github.io/images/logo_lab_cut.jpg
+    - src: ./nano_test_01.github.io/images/percezione in-forme.png
       alt: logo1
-    - src: ./nano_test_01.github.io/images/CARE.jpg
+    - src: ./nano_test_01.github.io/images/liposome-corona-box.png
       alt: logo2
-    - src: ./nano_test_01.github.io/images/logo_lab_cut.jpg
+    - src: ./nano_test_01.github.io/images/mahal_example_12.png
       alt: logo3
   settings:
     height:  "'auto'"
     maxHeight: 300
-    interval: 5000
+    interval: 10000
     transitionDuration: 3000
     effect: "'slide'"
 
