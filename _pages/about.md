@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 image_sliders:
   - home
+  
 ---
 
 {% include slider.html selector="home" %}
@@ -19,6 +20,7 @@ image_sliders:
 </div>
 
 <body align="justify">
+
 
 ### Who we are
 

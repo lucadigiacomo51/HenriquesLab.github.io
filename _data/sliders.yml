@@ -16,15 +16,12 @@
   bullets: True
   captions: True
   images:
-    - src: /images/tracking.jpg
-      alt: Tracking
-    - src: /images/TOC-v3-01.jpg
-      alt: TOC
+    - src: pumpy.jpg
+      alt: pum
   settings:
     height:  "'auto'"
     interval: 5000
     transitionDuration: 3000
-    maxHeight: 300
     effect: "'slide'"
 
 
