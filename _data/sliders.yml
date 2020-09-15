@@ -20,7 +20,6 @@
       alt: pumpy ./
     - src: ./images/pumpy.jpg
       alt: pumpy2 ./
-      
   settings:
     height:  "'auto'"
     interval: 5000
