@@ -25,6 +25,10 @@ image_sliders:
 
 ...
 
+### Our goal
+
+...
+
 ### The Laboratory
 
 ...
