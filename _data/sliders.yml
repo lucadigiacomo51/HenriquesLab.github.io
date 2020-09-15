@@ -19,9 +19,9 @@
     - src: ./nano_test_01.github.io/images/liposome-corona-box.png
       alt: caption1 ...
     - src: ./nano_test_01.github.io/images/mahal_example12.png
-      alt: logo2
+      alt: other plots
     - src: ./nano_test_01.github.io/images/percezione-in-forme.jpg
-      alt: logo3
+      alt: something
   settings:
     height:  500
     maxHeight: 300
