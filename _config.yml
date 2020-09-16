@@ -75,10 +75,10 @@ social:
 
 # Site Author
 author:
-  name             : "NanoDelivery Lab"
+  name             : "Smart Nanocarriers"
   avatar           : "RH.jpg"
-  bio              : "Smart nanocarriers for drug and gene delivery... and more"
-  location         : "Rome, IT"
+  bio              : "for drug and gene delivery... and more"
+  location         : 
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=qWwuxK4AAAAJ&hl=it&oi=ao"
   email            : "giulio.caracciolo@uniroma1.it"
@@ -108,6 +108,7 @@ author:
   youtube          :
   wikipedia        :
   researchgate     :
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=7003398017"
 
 #author:
 #  name             : "NanoDelivery Lab 2"
