@@ -16,11 +16,11 @@
   bullets: True
   captions: True
   images:
-    - src: ./nano_test_01.github.io/images/NanoScaleHoriz_cut.jpg
+    - src: ./lucadigiacomo51.github.io/images/NanoScaleHoriz_cut.jpg
       alt: caption1 ...
-    - src: ./nano_test_01.github.io/images/liposome-corona-box.png
+    - src: ./lucadigiacomo51.github.io/images/liposome-corona-box.png
       alt: some plots
-    - src: ./nano_test_01.github.io/images/tocboh.jpg
+    - src: ./lucadigiacomo51.github.io/images/tocboh.jpg
       alt: something
   settings:
     height:  "'auto'"
